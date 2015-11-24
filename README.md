@@ -1,7 +1,7 @@
 # mmv
 
 A zsh alias to move multiple files with ease. Credits go to [Marios
-Braindump](http://www.mfasold.net/blog/2008/11/moving-or-renaming-multiple-files/)
+Braindump](http://www.mfasold.net/blog/2008/11/moving-or-renaming-multiple-files/).
 
 ## Installation
 
